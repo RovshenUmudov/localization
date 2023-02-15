@@ -1,0 +1,32 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "lng": "en",
+      "date": "01-01-2023",
+      "title": "This is news one",
+      "content": "This is news content one"
+    },
+    {
+      "id": 1,
+      "lng": "es",
+      "date": "01-01-2023",
+      "title": "Esto es noticia uno",
+      "content": "Este es el contenido de noticias uno"
+    },
+    {
+      "id": 2,
+      "lng": "en",
+      "date": "01-02-2023",
+      "title": "This is news two",
+      "content": "This is news content two"
+    },
+    {
+      "id": 2,
+      "lng": "es",
+      "date": "01-02-2023",
+      "title": "Esta es la noticia dos",
+      "content": "Este es el contenido de noticias dos"
+    }
+  ]
+}
